@@ -22,4 +22,4 @@ console.log(piroca);
 console.log(piroca[1]);
 piroca[1].textContent = 'Hello 2';
 piroca[1].style.fontWeight = 'bold';
-piroca[1].style.backgroundColor = 'yellow';
+piroca[1].style.backgroundColor = 'blue';
